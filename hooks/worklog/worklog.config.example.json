@@ -1,0 +1,12 @@
+{
+  "name": "Your Name",
+  "gitAuthor": "your-git-author-name-or-email",
+  "include": [
+    "C:/path/to/your/repo"
+  ],
+  "logDir": "~/.claude/worklog",
+  "model": "sonnet",
+  "minChars": 500,
+  "maxChars": 120000,
+  "useLogin": true
+}
